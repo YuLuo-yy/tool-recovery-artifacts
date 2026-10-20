@@ -1,0 +1,12 @@
+Original analytical data and documentation in this release are licensed under
+Creative Commons Attribution 4.0 International (CC BY 4.0).
+
+Canonical legal text: https://creativecommons.org/licenses/by/4.0/legalcode
+License summary: https://creativecommons.org/licenses/by/4.0/
+
+Attribute the tool-recovery-artifacts contributors, cite the repository and
+specific release/commit, link to this license, and indicate changes.
+
+This license applies only to original contributions. It does not relicense
+AppWorld, tau-bench, or other third-party materials, and does not override
+AppWorld's encrypted-redistribution requirement for protected derivatives.
