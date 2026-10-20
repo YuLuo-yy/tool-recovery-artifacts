@@ -1,0 +1,98 @@
+{
+  "format": "AppWorld-compatible AES-256-CFB over ZIP; PBKDF2-HMAC-SHA256, 100000 iterations",
+  "parts": [
+    {
+      "path": "materials/replication.bundle.part01",
+      "sha256": "b458dfaba1909b194e2a4b8d2656b7eacdb9c0b6bf57abecff0c2c93702a0a51",
+      "bytes": 8388608
+    },
+    {
+      "path": "materials/replication.bundle.part02",
+      "sha256": "69c806b8e5c00a2796bae8e4e29c6a5797ac05756377b387ae20619d234359b4",
+      "bytes": 8388608
+    },
+    {
+      "path": "materials/replication.bundle.part03",
+      "sha256": "eeea1962bdfea0bc101690e2b04d1da80a9c66dd7ee1bdeb8803be96ac2031af",
+      "bytes": 8388608
+    },
+    {
+      "path": "materials/replication.bundle.part04",
+      "sha256": "96b687807247137807b641cb0035ff021b0af9057c8bb3f2c6822173053b9305",
+      "bytes": 8388608
+    },
+    {
+      "path": "materials/replication.bundle.part05",
+      "sha256": "8ce91e1f3f385a3e4e70cdb4c846356a7a17f8c6a3672966ecb9702efe034820",
+      "bytes": 8388608
+    },
+    {
+      "path": "materials/replication.bundle.part06",
+      "sha256": "95b1021bdae03aeeeb7b66d1236cc44d3c0e1e381e3eb83beff06033226bb4b8",
+      "bytes": 8388608
+    },
+    {
+      "path": "materials/replication.bundle.part07",
+      "sha256": "8fb9dd51e2a87aeff99f38c18e91c2f8dccc2850ce06684d6d1a735e96316e18",
+      "bytes": 8388608
+    },
+    {
+      "path": "materials/replication.bundle.part08",
+      "sha256": "ee48e0593ac5aaeb285d8ed2095d3812f3e8c51770582863664ed7f87e62b625",
+      "bytes": 8388608
+    },
+    {
+      "path": "materials/replication.bundle.part09",
+      "sha256": "a44346012fa71cd309f3b1f11919546810ce237ed2672e5241451015585f6e14",
+      "bytes": 8388608
+    },
+    {
+      "path": "materials/replication.bundle.part10",
+      "sha256": "5112d6500e206bdd2e27fcb58478e8896800140bf50ec71e5b684d276e70af4d",
+      "bytes": 8388608
+    },
+    {
+      "path": "materials/replication.bundle.part11",
+      "sha256": "88dab1bd7372e808b989eacc67acb819d0833e408a1675f90a10b9eb9b5469c4",
+      "bytes": 8388608
+    },
+    {
+      "path": "materials/replication.bundle.part12",
+      "sha256": "2d4a630af5112b3068a7fd982485573aab54451ec207f53ac9b5d98de8c43fd5",
+      "bytes": 8388608
+    },
+    {
+      "path": "materials/replication.bundle.part13",
+      "sha256": "e3b32dd0fc30b2c61b8431a3b0c18509fab475d95f726cab13b6bc379defe390",
+      "bytes": 8388608
+    },
+    {
+      "path": "materials/replication.bundle.part14",
+      "sha256": "ccfa6700c3b5e37687bc876ed4810b21890adcc835e62c53a5c2dd78c607d4a6",
+      "bytes": 8388608
+    },
+    {
+      "path": "materials/replication.bundle.part15",
+      "sha256": "5cbe2885f582a898029b341d067e2311e013c0a9e93417b7633af786e290ad13",
+      "bytes": 8388608
+    },
+    {
+      "path": "materials/replication.bundle.part16",
+      "sha256": "3c63999e656d6a7e58aa28f4f24591f64d29225a3f5cfb5b9aac0b9261465a76",
+      "bytes": 8388608
+    },
+    {
+      "path": "materials/replication.bundle.part17",
+      "sha256": "0929e4c9323517b036d6901b9be04ac11c16ca7b4df89612e0a3777a458db16c",
+      "bytes": 8388608
+    },
+    {
+      "path": "materials/replication.bundle.part18",
+      "sha256": "ad22dec267097d740945be72b8fb78bdaf4dc3eb39d0f039027e9857a0cfdbe6",
+      "bytes": 2652763
+    }
+  ],
+  "sha256": "774428de9ffa099714fcb2011ca28ff4204a3c8188a60e0a99aa8dd922480218",
+  "bytes": 145259099,
+  "manifest_sha256": "c228d45bf8469705dac6deb5ac0522de4caa5032de2b42c5086d13007cee6a6d"
+}

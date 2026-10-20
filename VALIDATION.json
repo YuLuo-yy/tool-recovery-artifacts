@@ -1,0 +1,45 @@
+{
+  "check": {
+    "passed": true,
+    "material_files": 1158,
+    "claims": 25,
+    "figures": 21,
+    "S15_trajectories": 3024,
+    "S15_worlds": 48,
+    "model_requests": 0
+  },
+  "statistics": {
+    "passed": true,
+    "families": [
+      "S11 frozen estimates/intervals",
+      "S12 Holm40",
+      "S13 Holm5",
+      "S14 Holm2",
+      "S15 Holm4"
+    ]
+  },
+  "witnesses": {
+    "passed": true,
+    "scope": "Retained selected native states and events; no live environment execution"
+  },
+  "figures": {
+    "passed": true,
+    "required_figures": 21,
+    "output": "outputs/figures"
+  },
+  "integrity_failure_tests": {
+    "missing_part_rejected": true,
+    "modified_decoded_input_rejected": true
+  },
+  "source_preservation": {
+    "source_entries_checked": 1154,
+    "passed": true
+  },
+  "environment": {
+    "python": "3.12.14",
+    "dependencies": "requirements-lock.txt",
+    "isolated_environment": true,
+    "original_project_pythonpath": false
+  },
+  "validation_scope": "Independent local release copy. GitHub download verification recorded separately after publication."
+}
