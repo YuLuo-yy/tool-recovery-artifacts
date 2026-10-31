@@ -20,4 +20,4 @@ The complete environment/database is obtained from upstream. Retained source/res
 
 ## Scope of the repository licenses
 
-The root MIT license covers original software contributions. CC BY 4.0 covers original analytical data and documentation. Neither overrides third-party rights. The paper itself and internal working packages are not part of this release. The public bundle password is not a service credential and does not protect private information; credentials must remain excluded even inside the encrypted archive.
+The root MIT license covers original software contributions. CC BY 4.0 covers original analytical data and documentation. Neither overrides third-party rights. The supplied packaging key enables local inspection and verification under the upstream distribution conditions.

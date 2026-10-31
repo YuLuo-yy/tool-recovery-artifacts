@@ -1,10 +1,7 @@
 {
   "passed": true,
-  "release": "v1.1.0",
-  "date": "2026-10-31",
   "check": {
     "passed": true,
-    "release": "v1.1.0",
     "base_material_files": 1158,
     "update_material_files": 40,
     "claims": 29,
@@ -38,8 +35,5 @@
     "output": "outputs/figures"
   },
   "figure_reference_visual_review": true,
-  "credential_scan": "no findings",
-  "base_parts_unchanged": true,
-  "remote_download_status": "post-publication checks are recorded separately in the release report",
   "model_requests": 0
 }

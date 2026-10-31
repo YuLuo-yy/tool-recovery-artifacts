@@ -1,4 +1,4 @@
-"""Offline reproduction for the V17-aligned v1.1.0 materials."""
+"""Offline verification of the study data materials."""
 from pathlib import Path,PurePosixPath
 import argparse,hashlib,io,json,shutil,tempfile,zipfile
 import legacy_interface as base

@@ -12,19 +12,19 @@
     "bytes": 2008
   },
   "CHANGELOG.md": {
-    "sha256": "6b4c39a56e45cce5b1585774c4f12dc836719af3daa7ba7189a487a4695585fb",
-    "bytes": 777
+    "sha256": "9512d716c75c9cadf7379063a4701ffbe212811679da05858ec7060a92809b99",
+    "bytes": 427
   },
   "CITATION.md": {
-    "sha256": "5127ee941798371d08ef7ded94a698076cc780e6ef8302c46e40f001fbb67741",
-    "bytes": 523
+    "sha256": "f78a3cd99cf884d7db39b7b0c275b616f77f086bd0f4c0c8abc632e6f38962f7",
+    "bytes": 278
   },
   "CLAIMS_V110.json": {
-    "sha256": "9dd2ae5bd739b59ad28829b7982a8535862e2cbd23e03f21d64120517653c763",
-    "bytes": 11195
+    "sha256": "0e09b859b54153de20d7309bab202aca9cf30f13e82bc1e3f019e1ae7639ef59",
+    "bytes": 11188
   },
   "DATA_DICTIONARY.md": {
-    "sha256": "13904c334868b7aff9bb616203ca3125a344ef230ffede440ba6c6a9114d8f25",
+    "sha256": "3b09bd3beabf915afbb79220f4738630bcd7e505dd3303a00b63a80a816c06c8",
     "bytes": 3497
   },
   "FIGURE_MAP.json": {
@@ -44,20 +44,20 @@
     "bytes": 176655
   },
   "PAPER_VERSION.json": {
-    "sha256": "a14096db24cde1077ce68f809a63727bbf7dba4eeec0519d903bdff386655de1",
-    "bytes": 634
+    "sha256": "c3549d5b043de423a0ae99fb3f12eaa0239393cfe110349c6b95d5457ffcb715",
+    "bytes": 224
   },
   "README.md": {
-    "sha256": "364ca6cb707252b52d96f77aa0b94ace6fe5ae37fdf515150ae347413fd75c63",
-    "bytes": 8256
+    "sha256": "c66925a9bce318bc467da63807ec304d8ca6a11c615f5d1429741888d7cbf370",
+    "bytes": 4118
   },
   "render_current.py": {
     "sha256": "a9a516153e95f4bca0605aefd0255ff6a48bf3b2a1d9b4d6ab9c0a40ed35c795",
     "bytes": 1515
   },
   "reproduce.py": {
-    "sha256": "94d56fd011b7ef7c2b13d2d2ff08f7e06798b179d6afa5b32152065d5e992aa3",
-    "bytes": 5360
+    "sha256": "8fba48bb58c6e9cbb16266bd5befca12f612818d8236b3c85cb17e15d22c6bb5",
+    "bytes": 5428
   },
   "requirements-lock.txt": {
     "sha256": "817e612f8ac5e3b9b46a9eb3f0c42a41f162b1482a126530638df09cbd2e9f4c",
@@ -68,8 +68,8 @@
     "bytes": 68
   },
   "THIRD_PARTY.md": {
-    "sha256": "f76e9fdb37bcef84cfcff0a7e6f6b189941aab0e94de644cf0c55f88e38614d9",
-    "bytes": 2199
+    "sha256": "fc1c1ff71ed3685675def113533419590e4ba2a89c14c89b0d8b8ab571e50217",
+    "bytes": 2093
   },
   "update-v1.1.0.bundle": {
     "sha256": "348a6c7e24671b6f5d200d946e5544e35cdb4e84153cd463db3b180051a14e10",
@@ -84,8 +84,8 @@
     "bytes": 12902
   },
   "VALIDATION.json": {
-    "sha256": "e8b4bae4d6c474a500f8516a3d63e8e0b81d9d29ca2d978ca28cb507416bce21",
-    "bytes": 1177
+    "sha256": "7a73dcfd658e3e6bb85dd35d6a6d2069a830a57ccfb2a89acd3df9373c4bd324",
+    "bytes": 930
   },
   "verify_update.py": {
     "sha256": "710879031df6e5a73b2dc1ddccbe83eb2d2b85e80856037da23add399825636b",

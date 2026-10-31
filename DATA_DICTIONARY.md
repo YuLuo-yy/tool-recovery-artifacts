@@ -31,9 +31,9 @@ Authentication fields in selected witness exports use the historical determinist
 Raw and sanitized state hashes refer to different representations; compare like with like.
 
 
-## v1.1.0 public observation and timing audit
+## Public observations and timing
 
-The update contains public arguments, prior_read, original response and event responses projected from fixed simulation episodes. Authentication arguments, provider transport/model response objects and real credentials are excluded.
+The observation records contain public arguments, prior_read, original response and event responses projected from fixed simulation episodes. Authentication arguments, provider transport/model response objects and real credentials are excluded.
 
 public_bound is the disclosed maximum stale-read prefix D. hidden_stale labels are used only by the separate descriptive audit, never by the replayed public-goal observer. first_fresh_read_position uses realized injection; first_guaranteed_read_position uses the (D+1)th executed read; first_target_supported_position is the first event at which candidate target counts equal {1}. Positions are one-based event indices; initially supported clean responses use zero. Absent events use null/empty fields.
 

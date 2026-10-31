@@ -1,12 +1,7 @@
 # Citation
 
-Tool-recovery-artifacts contributors. *Tool recovery under fixed budgets:
-replication materials*. Version 1.1.0, 2026.
+Tool-recovery-artifacts contributors. *Data materials for read and write budgets in large language model agent recovery*.
 
-Repository: https://github.com/YuLuo-yy/tool-recovery-artifacts
+[Repository](https://github.com/YuLuo-yy/tool-recovery-artifacts)
 
-Version: https://github.com/YuLuo-yy/tool-recovery-artifacts/releases/tag/v1.1.0
-
-Record the full commit SHA shown by the release alongside the citation. The
-repository maintainer is `YuLuo-yy`; this account identifier is not a claim
-about the paper's author list. No DOI or journal-acceptance status is asserted.
+Include the Git commit identifier for the files used in an analysis.

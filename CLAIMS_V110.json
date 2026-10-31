@@ -337,7 +337,7 @@
   },
   {
     "id": "A01",
-    "claim": "S13 internal freeze chronology and sampling provenance",
+    "claim": "S13 protocol chronology and sampling provenance",
     "location": "3.3.2; Supplement D6",
     "kind": "retrospective provenance, not public preregistration",
     "files": [
