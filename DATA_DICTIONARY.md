@@ -29,3 +29,14 @@ Use full saved records and the corresponding protocol to interpret denominators 
 The protected bundle contains original provenance identifiers so record joins remain possible.
 Authentication fields in selected witness exports use the historical deterministic redactions.
 Raw and sanitized state hashes refer to different representations; compare like with like.
+
+
+## v1.1.0 public observation and timing audit
+
+The update contains public arguments, prior_read, original response and event responses projected from fixed simulation episodes. Authentication arguments, provider transport/model response objects and real credentials are excluded.
+
+public_bound is the disclosed maximum stale-read prefix D. hidden_stale labels are used only by the separate descriptive audit, never by the replayed public-goal observer. first_fresh_read_position uses realized injection; first_guaranteed_read_position uses the (D+1)th executed read; first_target_supported_position is the first event at which candidate target counts equal {1}. Positions are one-based event indices; initially supported clean responses use zero. Absent events use null/empty fields.
+
+candidate_goal_counts and public_goal_evidence_support concern the authorized visible target and do not certify all native invariants. The cart quantity baseline is the pre-write prior_read.response supplied to the model. realized_category and guaranteed_category keep no-write paths separate.
+
+S13 sampling fields identify simulated slots, roles, operations, source/profile and hashed identity links. Formal/development slots are distinct; the 22 formal actors with prior separate-context exposure are not globally unexposed.

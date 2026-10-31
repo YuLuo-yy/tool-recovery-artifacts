@@ -1,11 +1,17 @@
 {
+  "passed": true,
+  "release": "v1.1.0",
+  "date": "2026-10-31",
   "check": {
     "passed": true,
-    "material_files": 1158,
-    "claims": 25,
+    "release": "v1.1.0",
+    "base_material_files": 1158,
+    "update_material_files": 40,
+    "claims": 29,
     "figures": 21,
+    "main_figures": 10,
+    "supplement_figures": 11,
     "S15_trajectories": 3024,
-    "S15_worlds": 48,
     "model_requests": 0
   },
   "statistics": {
@@ -16,30 +22,24 @@
       "S13 Holm5",
       "S14 Holm2",
       "S15 Holm4"
-    ]
+    ],
+    "new_inference": false
   },
   "witnesses": {
     "passed": true,
-    "scope": "Retained selected native states and events; no live environment execution"
+    "S15_public_observation_replays": 3024,
+    "scope": "Retained states, public-goal response replay and descriptive timing; no live native environment execution"
   },
   "figures": {
     "passed": true,
     "required_figures": 21,
+    "main": 10,
+    "supplement": 11,
     "output": "outputs/figures"
   },
-  "integrity_failure_tests": {
-    "missing_part_rejected": true,
-    "modified_decoded_input_rejected": true
-  },
-  "source_preservation": {
-    "source_entries_checked": 1154,
-    "passed": true
-  },
-  "environment": {
-    "python": "3.12.14",
-    "dependencies": "requirements-lock.txt",
-    "isolated_environment": true,
-    "original_project_pythonpath": false
-  },
-  "validation_scope": "Independent local release copy. GitHub download verification recorded separately after publication."
+  "figure_reference_visual_review": true,
+  "credential_scan": "no findings",
+  "base_parts_unchanged": true,
+  "remote_download_status": "post-publication checks are recorded separately in the release report",
+  "model_requests": 0
 }

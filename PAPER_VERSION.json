@@ -1,0 +1,11 @@
+{
+  "release": "v1.1.0",
+  "manuscript": "V17 CAS layout revision, 2026-10-31",
+  "title": "Read and Write Budgets for Large Language Model Agent Recovery: An Empirical Study of Conditional Effects and Transfer Boundaries",
+  "main_figures": 10,
+  "main_tables": 10,
+  "supplement_figures": 11,
+  "main_source_sha256": "9059bb13535ff0f193bc3a0d85e56ba07dc80e8e39a6e89cf3aee849d85fda8a",
+  "supplement_source_sha256": "7e034e2d8fb8313245bd18e535b00abfb32efee2a2263f54ff864fb8d3343ffb",
+  "note": "Source hashes bind scientific/editorial snapshot before updating availability release links; full paper is not distributed."
+}

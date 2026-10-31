@@ -1,0 +1,398 @@
+[
+  {
+    "id": "C01",
+    "claim": "Conditional read effects are model/operation dependent",
+    "location": "4.1.1; Fig 5; Supplement E/G",
+    "files": [
+      {
+        "bundle": "base",
+        "path": "legacy/data/s11_primary.json"
+      },
+      {
+        "bundle": "base",
+        "path": "legacy/data/s12_all40.json"
+      }
+    ],
+    "kind": "retained empirical or protocol evidence"
+  },
+  {
+    "id": "C02",
+    "claim": "S13 before +15.625 and after -18.750 pp; Holm5 .009765625",
+    "location": "abstract; 4.1.2; Table 4; Fig 6; Supplement H",
+    "files": [
+      {
+        "bundle": "base",
+        "path": "legacy/data/S13_PRIMARY.json"
+      }
+    ],
+    "kind": "retained empirical or protocol evidence"
+  },
+  {
+    "id": "C03",
+    "claim": "S13 interaction +17.7083 pp; Holm5 .01171875",
+    "location": "4.2; Table 4 C5; Fig 6/7; Table 7; Supplement H/I",
+    "files": [
+      {
+        "bundle": "base",
+        "path": "legacy/data/S13_PRIMARY.json"
+      }
+    ],
+    "kind": "retained empirical or protocol evidence"
+  },
+  {
+    "id": "C04",
+    "claim": "C3/C4 not supported at corrected threshold",
+    "location": "4.2; Table 4 C3/C4; Fig 6",
+    "files": [
+      {
+        "bundle": "base",
+        "path": "legacy/data/S13_PRIMARY.json"
+      }
+    ],
+    "kind": "retained empirical or protocol evidence"
+  },
+  {
+    "id": "C05",
+    "claim": "S13 matched P0/P1 paths and state/report decomposition",
+    "location": "3.1 Fig 2; 4.2 Table 7; 4.3.1 Fig 9/Table 8; Supplement I",
+    "files": [
+      {
+        "bundle": "base",
+        "path": "legacy/s13_witnesses/MANIFEST.json"
+      }
+    ],
+    "kind": "retained empirical or protocol evidence"
+  },
+  {
+    "id": "C06",
+    "claim": "Cart before state 48/48 in all 3 arms; CC3/48 to48/48; requests192 to240",
+    "location": "abstract; 4.3.2 Table 9; Supplement L",
+    "files": [
+      {
+        "bundle": "base",
+        "path": "current/reproducibility/s14_scores.json.gz"
+      },
+      {
+        "bundle": "base",
+        "path": "current/reproducibility/s14_cart_witness.json.gz"
+      }
+    ],
+    "kind": "retained empirical or protocol evidence"
+  },
+  {
+    "id": "C07",
+    "claim": "56 cart quota errors are valid-response behavioral violations",
+    "location": "4.3.2; Supplement J2",
+    "files": [
+      {
+        "bundle": "base",
+        "path": "current/source_data/S14_PROTOCOL_AND_PATH_AUDIT.json"
+      }
+    ],
+    "kind": "retained empirical or protocol evidence"
+  },
+  {
+    "id": "C08",
+    "claim": "Simple rules attain success under disclosed contract",
+    "location": "3.3.4; 4.3.3 Fig 10; Supplement F/G4/J5-J6/M3",
+    "files": [
+      {
+        "bundle": "base",
+        "path": "legacy/data/S13_RULES_COMPACT.json"
+      },
+      {
+        "bundle": "base",
+        "path": "current/source_data/S14_RULE_CONDITIONS.json"
+      }
+    ],
+    "kind": "retained empirical or protocol evidence"
+  },
+  {
+    "id": "C09",
+    "claim": "S14 both prespecified contrasts nonsignificant",
+    "location": "4.1.3 Table 5; Supplement J1/Fig S7",
+    "files": [
+      {
+        "bundle": "base",
+        "path": "current/reproducibility/s14_expected_primary.json"
+      }
+    ],
+    "kind": "retained empirical or protocol evidence"
+  },
+  {
+    "id": "C10",
+    "claim": "Specific transfer-boundaries wording",
+    "location": "title; 6; 7; Supplement J1",
+    "files": [
+      {
+        "bundle": "base",
+        "path": "current/source_data/S14_PRIMARY_FROZEN_REPLAY.json"
+      }
+    ],
+    "kind": "retained empirical or protocol evidence"
+  },
+  {
+    "id": "C11",
+    "claim": "Sampling and sample-size planning",
+    "location": "3.3.2; Supplement D4/D6",
+    "files": [
+      {
+        "bundle": "base",
+        "path": "protocols"
+      },
+      {
+        "bundle": "base",
+        "path": "current/s15/source/REGISTRY.json"
+      }
+    ],
+    "kind": "retained empirical or protocol evidence"
+  },
+  {
+    "id": "C12",
+    "claim": "Five concrete harness checks",
+    "location": "5.3 Table 10",
+    "files": [
+      {
+        "bundle": "base",
+        "path": "current/source_data/S14_PROTOCOL_AND_PATH_AUDIT.json"
+      },
+      {
+        "bundle": "base",
+        "path": "legacy/s13_witnesses/MANIFEST.json"
+      }
+    ],
+    "kind": "retained empirical or protocol evidence"
+  },
+  {
+    "id": "C13",
+    "claim": "Historical total-budget response on the earlier serving routes",
+    "location": "4.1.1 Fig 4; Supplement C",
+    "files": [
+      {
+        "bundle": "base",
+        "path": "current/figures/source/s8_by_fault.csv"
+      },
+      {
+        "bundle": "base",
+        "path": "historical/S8/ANALYSIS.json"
+      }
+    ],
+    "kind": "retained empirical or protocol evidence"
+  },
+  {
+    "id": "C14",
+    "claim": "Additional cart resources improve before-commit reports but not state correctness; after-commit gains absent",
+    "location": "4.3.2 Table 9; Supplement L1-L2",
+    "files": [
+      {
+        "bundle": "base",
+        "path": "current/resource/source/S14_FAULT_RESOURCE_CELLS.csv"
+      }
+    ],
+    "kind": "retained empirical or protocol evidence"
+  },
+  {
+    "id": "C15",
+    "claim": "Six of 72 directed within-stratum comparisons satisfy declared observed dominance",
+    "location": "4.3.2; Supplement L3",
+    "files": [
+      {
+        "bundle": "base",
+        "path": "current/resource/source/S14_DOMINANCE_ALL_PAIRS.csv"
+      }
+    ],
+    "kind": "retained empirical or protocol evidence"
+  },
+  {
+    "id": "C16",
+    "claim": "Included-trajectory resource use distinguished from interrupted acquisition overhead",
+    "location": "Supplement L2",
+    "files": [
+      {
+        "bundle": "base",
+        "path": "current/resource/source/S14_REQUEST_USAGE.csv"
+      }
+    ],
+    "kind": "retained empirical or protocol evidence"
+  },
+  {
+    "id": "C17",
+    "claim": "S15 all four primary staleness interactions unsupported; all Holm4 p=1",
+    "location": "4.1.3 Table 6; Supplement M1",
+    "files": [
+      {
+        "bundle": "base",
+        "path": "current/s15/source/ANALYSIS_RECOMPUTED.json"
+      },
+      {
+        "bundle": "base",
+        "path": "current/s15/source/EPISODE_SUMMARY.csv"
+      }
+    ],
+    "kind": "retained empirical or protocol evidence"
+  },
+  {
+    "id": "C18",
+    "claim": "S15 complete free B2-6 and d0-3 response is nonmonotonic on observed worlds",
+    "location": "4.1.3 Fig 8; Supplement Fig S11/Table M3",
+    "files": [
+      {
+        "bundle": "base",
+        "path": "current/s15/source/FREE_DB_CURVES.csv"
+      }
+    ],
+    "kind": "retained empirical or protocol evidence"
+  },
+  {
+    "id": "C19",
+    "claim": "Cart before B4 has 64 correct states and zero complete reports across four depths",
+    "location": "4.3.3; Supplement M2/Table M3",
+    "files": [
+      {
+        "bundle": "base",
+        "path": "current/s15/source/ALL_CONDITIONS.csv"
+      },
+      {
+        "bundle": "base",
+        "path": "current/s15/source/EPISODE_SUMMARY.csv"
+      }
+    ],
+    "kind": "retained empirical or protocol evidence"
+  },
+  {
+    "id": "C20",
+    "claim": "Cart after d3 B5 R4W2 executes RRRWR in 16 of 16 worlds and remains incorrect",
+    "location": "4.3.3; Supplement M2/Table M3",
+    "files": [
+      {
+        "bundle": "base",
+        "path": "current/s15/source/EPISODE_SUMMARY.csv"
+      }
+    ],
+    "kind": "retained empirical or protocol evidence"
+  },
+  {
+    "id": "C21",
+    "claim": "Concurrent D2/five-decision and D3/seven-decision reference changes matched paths",
+    "location": "3.3.3; 4.3.3; Supplement M2",
+    "files": [
+      {
+        "bundle": "base",
+        "path": "current/s15/source/ALL_CONDITIONS.csv"
+      }
+    ],
+    "kind": "retained empirical or protocol evidence"
+  },
+  {
+    "id": "C22",
+    "claim": "S15 formal resources: 11786 requests; 33615823 input and 262794 output tokens",
+    "location": "Supplement M3",
+    "files": [
+      {
+        "bundle": "base",
+        "path": "current/s15/source/REPORT_DATA.json"
+      },
+      {
+        "bundle": "base",
+        "path": "current/s15/source/EPISODE_SUMMARY.csv"
+      }
+    ],
+    "kind": "retained empirical or protocol evidence"
+  },
+  {
+    "id": "C23",
+    "claim": "Complete S13 Flash state and report counts for all twelve fault conditions",
+    "location": "4.3.1 Table 8; Fig 9",
+    "files": [
+      {
+        "bundle": "base",
+        "path": "legacy/data/S13_EPISODES_COMPACT.json"
+      }
+    ],
+    "kind": "retained empirical or protocol evidence"
+  },
+  {
+    "id": "C24",
+    "claim": "Complete operation decomposition of all four S15 primary interactions",
+    "location": "4.1.3; Supplement Table M2",
+    "files": [
+      {
+        "bundle": "base",
+        "path": "current/s15/source/ANALYSIS_RECOMPUTED.json"
+      }
+    ],
+    "kind": "retained empirical or protocol evidence"
+  },
+  {
+    "id": "C25",
+    "claim": "Historical unsettled-original-request diagnostic: Qwen B4 h4 has 24/24 correct at termination but 16/24 after settlement in each d group",
+    "location": "3.1; Supplement C3",
+    "files": [
+      {
+        "bundle": "base",
+        "path": "current/source_data/S10_D_COMPLETE_CONDITIONS.csv"
+      }
+    ],
+    "kind": "retained empirical or protocol evidence"
+  },
+  {
+    "id": "A01",
+    "claim": "S13 internal freeze chronology and sampling provenance",
+    "location": "3.3.2; Supplement D6",
+    "kind": "retrospective provenance, not public preregistration",
+    "files": [
+      {
+        "bundle": "update",
+        "path": "provenance/S13_FREEZE_EVIDENCE.json"
+      },
+      {
+        "bundle": "update",
+        "path": "provenance/S13_SAMPLING_REGISTRY.csv"
+      }
+    ]
+  },
+  {
+    "id": "A02",
+    "claim": "Observation-content support can precede the count-only guarantee",
+    "location": "3.4; 4.3.3; Supplement M2",
+    "kind": "post-hoc descriptive event replay",
+    "files": [
+      {
+        "bundle": "update",
+        "path": "s15/public_observations.json.gz"
+      },
+      {
+        "bundle": "update",
+        "path": "s15/S15_EPISODE_TIMING.csv"
+      }
+    ]
+  },
+  {
+    "id": "A03",
+    "claim": "Contract-limited sufficient budget and state/report identities",
+    "location": "3.3.4 Eq 1; 3.4 Eq 2",
+    "kind": "in-paper derivations plus descriptive rule verification",
+    "files": [
+      {
+        "bundle": "update",
+        "path": "s15/S15_RULE_SUFFICIENCY.csv"
+      }
+    ]
+  },
+  {
+    "id": "A04",
+    "claim": "Study overview and matched motivating example",
+    "location": "Figs 1/2",
+    "kind": "design schematic and existing selected witnesses",
+    "files": [
+      {
+        "bundle": "update",
+        "path": "evidence/FIGURE2_TRACE_EVIDENCE.json"
+      },
+      {
+        "bundle": "update",
+        "path": "evidence/FIGURE2_STATE_DIFF_CHECK.json"
+      }
+    ]
+  }
+]

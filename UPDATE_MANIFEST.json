@@ -1,0 +1,242 @@
+{
+  "EXPORT_PROVENANCE.json": {
+    "sha256": "ea39784e5458b548fec56d29b170829e9d7b09eb5caa7bde3282d9b060198004",
+    "bytes": 16650,
+    "purpose": "Generated provenance, source hashes or portable geometric checks",
+    "license": "MIT for original code; CC-BY-4.0 for original metadata; third-party rights retained"
+  },
+  "evidence/FIGURE2_STATE_DIFF_CHECK.json": {
+    "sha256": "e58143c053b4abba368ae7cecd98c401fa6374671e5383e8c42fd4e042b89da9",
+    "bytes": 1172,
+    "purpose": "Two motivating example traces and independent native-state row-count check",
+    "license": "original contributions MIT or CC-BY-4.0; third-party rights retained"
+  },
+  "evidence/FIGURE2_TRACE_EVIDENCE.json": {
+    "sha256": "a41d9b985091685b99c069b1f68e06d3fca1a42d12d9d605759b7514b9642e13",
+    "bytes": 2793,
+    "purpose": "Two motivating example traces and independent native-state row-count check",
+    "license": "original contributions MIT or CC-BY-4.0; third-party rights retained"
+  },
+  "plot/draw_axes.py": {
+    "sha256": "524c3e5cc535c40fe0130df56ec097c571f428c54717927e6b54b943518984a8",
+    "bytes": 6973,
+    "purpose": "Historical budget figure with explicit after-commit axis break",
+    "license": "MIT for original code; third-party rights retained"
+  },
+  "plot/draw_overview.py": {
+    "sha256": "08e0bc97cb1df1e50c134f20f5f9728e7b1ec701d0d89da597d76be422c9f292",
+    "bytes": 6137,
+    "purpose": "Current overview and matched motivating paths",
+    "license": "MIT for original code; third-party rights retained"
+  },
+  "plot/layout_check.py": {
+    "sha256": "f0a0bc2d2ca5eea8c4f92a71d2cb908101d43dae508e7cde3a12c3b7d093e30b",
+    "bytes": 903,
+    "purpose": "Generated provenance, source hashes or portable geometric checks",
+    "license": "MIT for original code; CC-BY-4.0 for original metadata; third-party rights retained"
+  },
+  "plot/plot_current.py": {
+    "sha256": "97b0871e437ff62677d5b0b01c3d04070110738ff417d1ddab47698d0c0f2612",
+    "bytes": 29895,
+    "purpose": "Current vector style and frozen scientific figure generators",
+    "license": "MIT for original code; third-party rights retained"
+  },
+  "provenance/S13_FREEZE_EVIDENCE.json": {
+    "sha256": "ea536803b4169881bb70a6127c4bdca546f719d47abe873b0b7e0fff8f212e9a",
+    "bytes": 307537,
+    "purpose": "S13 internally frozen protocol and retrospective sampling provenance",
+    "license": "original contributions MIT or CC-BY-4.0; third-party rights retained"
+  },
+  "provenance/S13_SAMPLING_REGISTRY.csv": {
+    "sha256": "d886b1fec1262ca195329cd83b34195118b04c33ec9cb4881ed232bd97b3ae2e",
+    "bytes": 11825,
+    "purpose": "S13 internally frozen protocol and retrospective sampling provenance",
+    "license": "original contributions MIT or CC-BY-4.0; third-party rights retained"
+  },
+  "s15/public_observations.json.gz": {
+    "sha256": "5b09a8831b8c636920d3acf93e73fe93bc07e67419b64d7399cbf967941c97d6",
+    "bytes": 716641,
+    "purpose": "Replay public-goal target support separately from realized/count-guaranteed freshness",
+    "license": "AppWorld protected derivatives; encrypted redistribution required"
+  },
+  "s15/S15_CART_FOCUS.json": {
+    "sha256": "f766ef705696df66628f8df05f3a9064e3164e215c5119eb2ce7f53be9ca639e",
+    "bytes": 3832,
+    "purpose": "Frozen retrospective descriptive audit; no new inference or independent objects",
+    "license": "original contributions MIT or CC-BY-4.0; third-party rights retained"
+  },
+  "s15/S15_CELLS.csv": {
+    "sha256": "3af9a3af6a79caccade2bebbee89f51612174329001f579afaf0ff0fee246534",
+    "bytes": 26433,
+    "purpose": "Frozen retrospective descriptive audit; no new inference or independent objects",
+    "license": "original contributions MIT or CC-BY-4.0; third-party rights retained"
+  },
+  "s15/S15_EARLY_TARGET_SUPPORT.json": {
+    "sha256": "21fdc410d663546c8af01689a192da42ee9a38bd90147691e373819a870171e6",
+    "bytes": 927641,
+    "purpose": "Frozen retrospective descriptive audit; no new inference or independent objects",
+    "license": "original contributions MIT or CC-BY-4.0; third-party rights retained"
+  },
+  "s15/S15_EPISODE_TIMING.csv": {
+    "sha256": "09af78aee96d3a18378c9fc9f27c0d8dbffa6256321c133c47522cce6ca9cc1b",
+    "bytes": 706574,
+    "purpose": "Frozen retrospective descriptive audit; no new inference or independent objects",
+    "license": "original contributions MIT or CC-BY-4.0; third-party rights retained"
+  },
+  "s15/S15_OPERATION_INTERACTIONS.csv": {
+    "sha256": "c7f0c5fa31da130d9bf4892b35ee230eaa411ac270cc77d5507e743ef20a0994",
+    "bytes": 340,
+    "purpose": "Frozen retrospective descriptive audit; no new inference or independent objects",
+    "license": "original contributions MIT or CC-BY-4.0; third-party rights retained"
+  },
+  "s15/S15_PRIMARY_RECONCILIATION.json": {
+    "sha256": "b6050b66682746b53677b6447c7d06721776e77599eb056e7a769a928141ad37",
+    "bytes": 751,
+    "purpose": "Frozen retrospective descriptive audit; no new inference or independent objects",
+    "license": "original contributions MIT or CC-BY-4.0; third-party rights retained"
+  },
+  "s15/S15_RULE_SUFFICIENCY.csv": {
+    "sha256": "16557e1ed1f8a4e5a6becb07496f6ab19096d699ef423b45b4788caf059a7663",
+    "bytes": 313143,
+    "purpose": "Frozen retrospective descriptive audit; no new inference or independent objects",
+    "license": "original contributions MIT or CC-BY-4.0; third-party rights retained"
+  },
+  "s15/S15_TIMING_BY_CELL.csv": {
+    "sha256": "6dc18bedc6fe1091f18e3b61fa7d620bd86e97e485d29c68ddc4c133f112cc73",
+    "bytes": 102507,
+    "purpose": "Frozen retrospective descriptive audit; no new inference or independent objects",
+    "license": "original contributions MIT or CC-BY-4.0; third-party rights retained"
+  },
+  "s15/SOURCE_HASHES.json": {
+    "sha256": "f5f8eff2cc5cccef99a9c5642247a6fb0cc99745549bb2619a6c01cc6bb38e2e",
+    "bytes": 269141,
+    "purpose": "Generated provenance, source hashes or portable geometric checks",
+    "license": "MIT for original code; CC-BY-4.0 for original metadata; third-party rights retained"
+  },
+  "reference_figures/main/Figure_01.pdf": {
+    "sha256": "bd39cca50d69e0a9bf0b9a900c92de8fe3128ca63f1f38d4d6df5b192f51abc2",
+    "bytes": 70858,
+    "purpose": "Reference vector figure for the current manuscript",
+    "license": "original contributions MIT or CC-BY-4.0; third-party rights retained"
+  },
+  "reference_figures/main/Figure_02.pdf": {
+    "sha256": "2fe884a786a5d50b0abab6b99dadb7a8f2d762f2a58778947322be107887dc13",
+    "bytes": 58762,
+    "purpose": "Reference vector figure for the current manuscript",
+    "license": "original contributions MIT or CC-BY-4.0; third-party rights retained"
+  },
+  "reference_figures/main/Figure_03.pdf": {
+    "sha256": "b6ea186da09abf6cecf1847db66fa72abf1ac9a0b37e96082425c95010edec26",
+    "bytes": 54665,
+    "purpose": "Reference vector figure for the current manuscript",
+    "license": "original contributions MIT or CC-BY-4.0; third-party rights retained"
+  },
+  "reference_figures/main/Figure_04.pdf": {
+    "sha256": "e43345f9099b3d79bd9271344bda56700c0207911a1b785fc7d2ef5277fccfb4",
+    "bytes": 40187,
+    "purpose": "Reference vector figure for the current manuscript",
+    "license": "original contributions MIT or CC-BY-4.0; third-party rights retained"
+  },
+  "reference_figures/main/Figure_05.pdf": {
+    "sha256": "f5e1da171b05be299115d055eff5c1cadb9ba50e3cbb58f9761df22ebd51f9e6",
+    "bytes": 41257,
+    "purpose": "Reference vector figure for the current manuscript",
+    "license": "original contributions MIT or CC-BY-4.0; third-party rights retained"
+  },
+  "reference_figures/main/Figure_06.pdf": {
+    "sha256": "0c114879e93e47cbb075533f09ba4e5d8cb13e9f279e78ae26ebcf0651428ebb",
+    "bytes": 41156,
+    "purpose": "Reference vector figure for the current manuscript",
+    "license": "original contributions MIT or CC-BY-4.0; third-party rights retained"
+  },
+  "reference_figures/main/Figure_07.pdf": {
+    "sha256": "c2a7e5785b2fd227cd23adad7f761890743295057f4e92a516b883ac3e41d1b1",
+    "bytes": 43811,
+    "purpose": "Reference vector figure for the current manuscript",
+    "license": "original contributions MIT or CC-BY-4.0; third-party rights retained"
+  },
+  "reference_figures/main/Figure_08.pdf": {
+    "sha256": "f10dbb8a1c5ba731413877f5a21842c647590cbbc0bfb019147f117e96d7e56d",
+    "bytes": 35305,
+    "purpose": "Reference vector figure for the current manuscript",
+    "license": "original contributions MIT or CC-BY-4.0; third-party rights retained"
+  },
+  "reference_figures/main/Figure_09.pdf": {
+    "sha256": "814888afcdd78787acb596d1826a7b2909e6cc648ffeca9310392fe30137d764",
+    "bytes": 26705,
+    "purpose": "Reference vector figure for the current manuscript",
+    "license": "original contributions MIT or CC-BY-4.0; third-party rights retained"
+  },
+  "reference_figures/main/Figure_10.pdf": {
+    "sha256": "7aa32ce05853cd14442f0268a802653df644b24952d65fea13dd17b03384fe1d",
+    "bytes": 36732,
+    "purpose": "Reference vector figure for the current manuscript",
+    "license": "original contributions MIT or CC-BY-4.0; third-party rights retained"
+  },
+  "reference_figures/supplement/Supplement_Figure_01.pdf": {
+    "sha256": "558a539f9f8eb401c2654607cfb67fea387d0ef1e5280ae75df28e2cda030c5a",
+    "bytes": 41845,
+    "purpose": "Reference vector figure for the current manuscript",
+    "license": "original contributions MIT or CC-BY-4.0; third-party rights retained"
+  },
+  "reference_figures/supplement/Supplement_Figure_02.pdf": {
+    "sha256": "98ec914b69f3317ca9185242902e4466f2222ee34f8f81554719af6fe6f20b7a",
+    "bytes": 35366,
+    "purpose": "Reference vector figure for the current manuscript",
+    "license": "original contributions MIT or CC-BY-4.0; third-party rights retained"
+  },
+  "reference_figures/supplement/Supplement_Figure_03.pdf": {
+    "sha256": "2a1f964a3ebcf7ee95dcfc1903bde65314637221dd49303c8d887f8ea940586c",
+    "bytes": 44938,
+    "purpose": "Reference vector figure for the current manuscript",
+    "license": "original contributions MIT or CC-BY-4.0; third-party rights retained"
+  },
+  "reference_figures/supplement/Supplement_Figure_04.pdf": {
+    "sha256": "805f44550a911c4eb56a4087acacbfe6b4a234529d00630749144267475e3b1a",
+    "bytes": 37602,
+    "purpose": "Reference vector figure for the current manuscript",
+    "license": "original contributions MIT or CC-BY-4.0; third-party rights retained"
+  },
+  "reference_figures/supplement/Supplement_Figure_05.pdf": {
+    "sha256": "6839acddca9139c73f83557c9977fad9b3f512aa8ef61ebb2436959871255fa7",
+    "bytes": 34265,
+    "purpose": "Reference vector figure for the current manuscript",
+    "license": "original contributions MIT or CC-BY-4.0; third-party rights retained"
+  },
+  "reference_figures/supplement/Supplement_Figure_06.pdf": {
+    "sha256": "68f06ac34c334ddcddd80a684fc6006f8a09284756861fc6f3760b015be99028",
+    "bytes": 44044,
+    "purpose": "Reference vector figure for the current manuscript",
+    "license": "original contributions MIT or CC-BY-4.0; third-party rights retained"
+  },
+  "reference_figures/supplement/Supplement_Figure_07.pdf": {
+    "sha256": "b8a0657dc7777444737118bad3380d90f06789abce001e680a4a51cfdc505e35",
+    "bytes": 36869,
+    "purpose": "Reference vector figure for the current manuscript",
+    "license": "original contributions MIT or CC-BY-4.0; third-party rights retained"
+  },
+  "reference_figures/supplement/Supplement_Figure_08.pdf": {
+    "sha256": "18db17d9e2ab07495c3646b6a2f1585a068c3d7eaec185ac689254c6315c4beb",
+    "bytes": 30100,
+    "purpose": "Reference vector figure for the current manuscript",
+    "license": "original contributions MIT or CC-BY-4.0; third-party rights retained"
+  },
+  "reference_figures/supplement/Supplement_Figure_09.pdf": {
+    "sha256": "a17932a5043c20a2f2179c965fbd614ef42e2dbb7a4a23517becb24a8c3e0ae7",
+    "bytes": 46269,
+    "purpose": "Reference vector figure for the current manuscript",
+    "license": "original contributions MIT or CC-BY-4.0; third-party rights retained"
+  },
+  "reference_figures/supplement/Supplement_Figure_10.pdf": {
+    "sha256": "8e33da2d5650ad2b1ef2480407281acc2fc98d33a85792de0740f0105aebc7d3",
+    "bytes": 56697,
+    "purpose": "Reference vector figure for the current manuscript",
+    "license": "original contributions MIT or CC-BY-4.0; third-party rights retained"
+  },
+  "reference_figures/supplement/Supplement_Figure_11.pdf": {
+    "sha256": "6ab7502bea5aa95adfa98b7d53f524f33ab1ff0a0ffde0045f5bf3a941470d0a",
+    "bytes": 34983,
+    "purpose": "Reference vector figure for the current manuscript",
+    "license": "original contributions MIT or CC-BY-4.0; third-party rights retained"
+  }
+}

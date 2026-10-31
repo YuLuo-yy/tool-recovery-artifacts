@@ -1,8 +1,8 @@
 # Tool recovery under fixed budgets: replication materials
 
-This repository accompanies the 20 October 2026 revised manuscript on conditional read/write ceilings, commitment stage, operation contracts and feedback presentation in tool-failure recovery. It contains analysis data, frozen protocols, statistical and plotting code, and selected retained-state witnesses. The manuscript itself is not distributed here.
+This v1.1.0 release accompanies the V17 CAS layout revision of 31 October 2026: Read and Write Budgets for Large Language Model Agent Recovery: An Empirical Study of Conditional Effects and Transfer Boundaries. It contains analysis data, frozen protocols, statistical and plotting code, and selected retained-state witnesses. The manuscript itself is not distributed here.
 
-Release: **v1.0.0**. Cite the release together with its full Git commit SHA; see `CITATION.md`.
+Release: **v1.1.0**. Cite the release together with its full Git commit SHA; see `CITATION.md`.
 
 ## Quick start
 
@@ -35,9 +35,23 @@ The materials are encrypted using the AppWorld-compatible bundle format to prese
 | S14 | 1,568 compact scores; both primary comparisons with Holm2; all 36 resource cells; selected cart business-state and event replay. |
 | S15 | All 3,024 formal trajectory summaries and 48 reused worlds; all four original interactions, bootstrap intervals, Holm4, and 189 condition-by-operation cells. |
 | Selected native witnesses | The earlier 238-witness package, S13's preselected 672 trajectories, and S14's 28 matched cart trajectories. These are retained-state reconstructions, not live executions of the complete benchmark. |
-| Figures | Frozen numerical inputs and code for the 11 main and 10 supplementary figures, with frame/legend checks retained. |
+| Figures | Frozen numerical inputs and code for the 10 main and 11 supplementary figures, with frame/legend checks retained. |
 
 S14 and S15 reuse worlds. Repeats, conditions, checkpoints and model endpoints do not create independent objects. All supported and unsupported comparisons remain in their original families. S15's four corrected p-values remain 1; this package does not introduce a new hypothesis family or new model observations.
+
+## Changes in v1.1.0
+
+The 18 v1.0.0 encrypted parts and all frozen statistical inputs are unchanged. Keep every base part plus update-v1.1.0.bundle. UPDATE_BUNDLE.json and UPDATE_MANIFEST.json bind the added material, decoded to .updates/; RELEASE_FILES.json checks the repository files themselves.
+
+The current 10 main and 11 supplementary figures are generated under outputs/figures/main/ and outputs/figures/supplement/. The old release also had 21 figures, but its content and numbering differ. Root FIGURE_MAP.json is authoritative for the current paper. Font rendering can vary by platform. Figure-specific numerical/frame/legend checks and portable panel-containment checks are retained.
+
+The update adds the S13 retrospective freeze/sampling extracts referenced in Supplement D6; projections of public arguments, prior reads and tool observations for all 3,024 S15 trajectories; frozen descriptive timing/rule-sufficiency records; and current figure generators/reference vectors. Original sample identities, seeds and correction families remain.
+
+The witnesses entry additionally replays the public-target observer without hidden stage or actual staleness as observer inputs. Separate audit checks verify realized freshness and the public D+1 guarantee, including the 16 after-commit cart RRR examples in Supplement M2. Count-only freshness and response-content support remain distinct. No full native-world S15 replay or new collection is claimed.
+
+S13 internal chronology and the 1,629-entry hash manifest are retrospective provenance, not public preregistration. The public check verifies extract completeness and sealed hashes; it does not claim all 1,629 original preparation files are redistributed.
+
+Root CLAIMS_V110.json maps 25 retained claims and four added provenance/interpretation entries to current locations and base/update inputs. Maps inside the unchanged base bundle describe v1.0.0. PAPER_VERSION.json binds the scientific/editorial snapshot before the availability-link update by hash without distributing paper text. CHANGELOG.md records version differences. v1.0.0 remains a historical release.
 
 ## Contents
 
@@ -50,6 +64,8 @@ S14 and S15 reuse worlds. Repeats, conditions, checkpoints and model endpoints d
 - `DATA_DICTIONARY.md`, `THIRD_PARTY.md`, `LICENSES/`: definitions and reuse conditions.
 
 The release excludes paper PDFs/TeX, internal review reports, account credentials, transport headers, private billing ledgers and complete benchmark databases. Existing redacted simulation authentication is documented in the witness provenance. A compact score or selected witness must not be described as a complete raw provider-response deposit.
+
+The .updates/ decoded directory is also excluded from Git. Original public interfaces remain credential-free; all verification subprocesses have Python network sockets disabled.
 
 ## Full environment replication
 
