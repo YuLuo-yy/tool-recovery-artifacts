@@ -2,8 +2,8 @@
   "version": "v1.1.0",
   "path": "update-v1.1.0.bundle",
   "bytes": 1538755,
-  "sha256": "348a6c7e24671b6f5d200d946e5544e35cdb4e84153cd463db3b180051a14e10",
-  "manifest_sha256": "166bcf53047eb70d18693f274aa65dfe21c7366209af27ffcd091b4d8bf18b33",
+  "sha256": "d20f8102115feeaaab5ee08ebec09d5ee94729a9720195545e26101eb0bbcb33",
+  "manifest_sha256": "9c3991466ac9d872db164987f3202f851e979ed47aeb2329b796cd692915baa4",
   "files": 40,
   "format": "AppWorld-compatible AES-CFB encrypted ZIP; original base bundle unchanged"
 }

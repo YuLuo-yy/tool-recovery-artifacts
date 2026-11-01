@@ -1,7 +1,7 @@
 {
   ".gitignore": {
-    "sha256": "995ffe9fd3714df7163b1157cc64dfc667a515a00a05fee8e09fa7d931065e5a",
-    "bytes": 82
+    "sha256": "32c465403fa535c32ecb719e3071b99e42bb5a387f580946f99f02eab607854c",
+    "bytes": 89
   },
   "BUNDLE.json": {
     "sha256": "7bcb56e102b213d73e99d1bb7f4d5f19c3786551226a82840fd49145e0b9d091",
@@ -28,12 +28,12 @@
     "bytes": 3497
   },
   "FIGURE_MAP.json": {
-    "sha256": "10fc00b9bcba6aab45d093662648deb695100815000fdca7e7ac6501e07df084",
-    "bytes": 5009
+    "sha256": "30ad91decb86a69842d73c35497cead76611133b78adfdd05c5aa92a17069e8d",
+    "bytes": 5011
   },
   "legacy_interface.py": {
-    "sha256": "15a8f3e4521977c3cbb915a8c0add62dbd9d7f222963a705ce1e086f733ad98f",
-    "bytes": 6593
+    "sha256": "fd70767504c64fd2594b01a6d4904f5eaeb660a358ba7e27dfcf9b5a6d606e6c",
+    "bytes": 6765
   },
   "LICENSE": {
     "sha256": "89135000c1b4613bfac0b17e9b96b826070e85bc5ce1d9fd9ba40290b9af24b8",
@@ -52,8 +52,8 @@
     "bytes": 4118
   },
   "render_current.py": {
-    "sha256": "a9a516153e95f4bca0605aefd0255ff6a48bf3b2a1d9b4d6ab9c0a40ed35c795",
-    "bytes": 1515
+    "sha256": "d4f85c4a325a35f6f351a5deb809c4d01a1a6f1cf13c440743b6ee10612d57eb",
+    "bytes": 1522
   },
   "reproduce.py": {
     "sha256": "8fba48bb58c6e9cbb16266bd5befca12f612818d8236b3c85cb17e15d22c6bb5",
@@ -72,24 +72,24 @@
     "bytes": 2093
   },
   "update-v1.1.0.bundle": {
-    "sha256": "348a6c7e24671b6f5d200d946e5544e35cdb4e84153cd463db3b180051a14e10",
+    "sha256": "d20f8102115feeaaab5ee08ebec09d5ee94729a9720195545e26101eb0bbcb33",
     "bytes": 1538755
   },
   "UPDATE_BUNDLE.json": {
-    "sha256": "840fc1a6b7bd36098c9d6e1201dc241d0ab2075573634ba8c7139036e290b018",
+    "sha256": "e1c7d5ce73246c67f1e49b39d10f8f64c4e69f1d99a6cf57dca40db5ea8f6fb2",
     "bytes": 362
   },
   "UPDATE_MANIFEST.json": {
-    "sha256": "166bcf53047eb70d18693f274aa65dfe21c7366209af27ffcd091b4d8bf18b33",
-    "bytes": 12902
+    "sha256": "9c3991466ac9d872db164987f3202f851e979ed47aeb2329b796cd692915baa4",
+    "bytes": 12866
   },
   "VALIDATION.json": {
     "sha256": "7a73dcfd658e3e6bb85dd35d6a6d2069a830a57ccfb2a89acd3df9373c4bd324",
     "bytes": 930
   },
   "verify_update.py": {
-    "sha256": "710879031df6e5a73b2dc1ddccbe83eb2d2b85e80856037da23add399825636b",
-    "bytes": 5764
+    "sha256": "f69a4ca5720909567f8f4879467323c5b9f4a90d8af5b544af11aeba7f24347f",
+    "bytes": 5836
   },
   "LICENSES/Apache-2.0.txt": {
     "sha256": "c95bae1d1ce0235ecccd3560b772ec1efb97f348a79f0fbe0a634f0c2ccefe2c",

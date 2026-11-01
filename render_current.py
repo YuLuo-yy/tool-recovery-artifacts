@@ -1,4 +1,4 @@
-"""Generate the current 10 main and 11 supplementary vector figures."""
+"""Generate the main and supplementary vector figures."""
 from pathlib import Path
 import importlib.util,json,runpy,shutil,sys
 M=Path(sys.argv[1]).resolve();DEST=Path(sys.argv[2]).resolve();U=M/'updates'

@@ -1,3 +1,4 @@
+# Offline interface for the retained study materials.
 """Credential-free offline verification of the released experiment materials."""
 from pathlib import Path, PurePosixPath
 import argparse, csv, hashlib, io, json, os, shutil, subprocess, sys, tempfile, zipfile

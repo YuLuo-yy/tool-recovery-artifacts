@@ -44,13 +44,13 @@
   "provenance/S13_FREEZE_EVIDENCE.json": {
     "sha256": "ea536803b4169881bb70a6127c4bdca546f719d47abe873b0b7e0fff8f212e9a",
     "bytes": 307537,
-    "purpose": "S13 internally frozen protocol and retrospective sampling provenance",
+    "purpose": "S13 protocol and retrospective sampling provenance",
     "license": "original contributions MIT or CC-BY-4.0; third-party rights retained"
   },
   "provenance/S13_SAMPLING_REGISTRY.csv": {
     "sha256": "d886b1fec1262ca195329cd83b34195118b04c33ec9cb4881ed232bd97b3ae2e",
     "bytes": 11825,
-    "purpose": "S13 internally frozen protocol and retrospective sampling provenance",
+    "purpose": "S13 protocol and retrospective sampling provenance",
     "license": "original contributions MIT or CC-BY-4.0; third-party rights retained"
   },
   "s15/public_observations.json.gz": {

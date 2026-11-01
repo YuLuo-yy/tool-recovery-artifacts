@@ -1,4 +1,4 @@
-"""Verify the added provenance and replay observations without model access."""
+"""Verify provenance and replay observations without model access."""
 from pathlib import Path
 import csv,gzip,json,sys
 from collections import Counter
